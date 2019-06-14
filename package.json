@@ -1,0 +1,13 @@
+{
+  "name": "node_sitge",
+  "version": "1.0.0",
+  "description": "Uso de Node.js en Docker",
+  "author": "Miguel Matul <miguemat4@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
